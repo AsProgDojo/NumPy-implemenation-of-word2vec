@@ -1,0 +1,1 @@
+# NumPy-implemenation-of-word2vec
